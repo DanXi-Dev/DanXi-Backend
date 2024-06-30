@@ -156,7 +156,7 @@
         "updatedAt": "2022-04-15 17:45:45",
         "objectId": "z1rxDCCD",
         "ACL": null,
-        "content": "久等了，旦夕 1.4.2 已经发布。这次更新是最近影响使用体验的 Bug 的修复集合。\nAndroid 用户请直接点击下面的按钮跳转官网下载；iOS/iPadOS 用户请等待 App Store 提示更新后，在商店中更新。",
+        "content": "久等了，DanXi 1.4.3 已经发布。这次更新是最近影响使用体验的 Bug 的修复集合，同时包括一些新功能。\nAndroid 用户请直接点击下面的按钮跳转官网下载；iOS/iPadOS 用户请等待 App Store 提示更新后，在商店中更新。",
         "maxVersion": -3
     },
     {
@@ -164,7 +164,7 @@
         "updatedAt": "2022-04-15 17:45:48",
         "objectId": "s7f2B22B",
         "ACL": null,
-        "content": "1.4.2",
+        "content": "1.4.3",
         "maxVersion": -2
     },
     {
