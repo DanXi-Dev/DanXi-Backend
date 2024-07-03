@@ -11,6 +11,6 @@ try:
     print("SUCCESS")
 except Exception as e:
     print("ERROR")
-    raise from e
+    raise e
 
 print("<<<< END: Convert toml to json <<<<")
