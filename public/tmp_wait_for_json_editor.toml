@@ -12,11 +12,6 @@ title = "旦挞团队招新啦！"
 action = "#345499"
 button = "加入旦挞"
 
-[[banners]]
-title = "茶楼猫猫表情包调研"
-action = "https://danxi-dev.feishu.cn/share/base/form/shrcnIukeNE7wnYNDeRrfLbSQy5"
-button = "参与/ᐠ. ᴗ.ᐟ\\ /☆"
-
 [semester_start_date]
 487 = "2025-01-17"
 485 = "2024-09-02"
