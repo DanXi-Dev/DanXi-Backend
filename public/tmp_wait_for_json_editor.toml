@@ -12,6 +12,11 @@ title = "旦挞团队招新啦！"
 action = "#345499"
 button = "加入旦挞"
 
+[[banners]]
+title = "茶楼横幅位（就是这里噢！）申请指南"
+action = "https://danxi-dev.feishu.cn/wiki/NfSfwq5I2izsbbkTcNdcnbgXnrf"
+button = "点击查看"
+
 [semester_start_date]
 487 = "2025-01-17"
 485 = "2024-09-02"
