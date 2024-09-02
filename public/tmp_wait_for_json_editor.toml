@@ -18,7 +18,7 @@ action = "https://mp.weixin.qq.com/s/EwsdsxHHGTegAor1y4KvxA"
 button = "收集根器"
 
 [[banners]]
-title = "旦挞团队招新啦！"
+title = "旦挞团队开发部招新啦！"
 action = "#345499"
 button = "加入旦挞"
 
