@@ -8,6 +8,11 @@ action = "https://mp.weixin.qq.com/s/C_3LOkjwp3ZnW-L66JVaSQ"
 button = "点我了解"
 
 [[banners]]
+title = "和梁永安一起看 里斯本丸沉没"
+action = "https://mp.weixin.qq.com/s/oeCd4XnCH3kW5sEZZPtH0Q"
+button = "前来观影"
+
+[[banners]]
 title = "诚邀天命人加入PCS服务队"
 action = "https://mp.weixin.qq.com/s/EwsdsxHHGTegAor1y4KvxA"
 button = "收集根器"
