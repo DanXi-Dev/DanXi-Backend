@@ -3,6 +3,16 @@ stop_words = [ "蝻", "郭楠", "锅男", "蝈楠", "国钕", "下头", "普信�
 change_log = "久等了，旦夕 1.4.2 已经发布。这次更新是最近影响使用体验的 Bug 的修复集合。\nAndroid 用户请直接点击下面的按钮跳转官网下载；iOS/iPadOS 用户请等待 App Store 提示更新后，在商店中更新。"
 
 [[banners]]
+title = "无非是一点汗水，亿点快乐"
+action = "https://mp.weixin.qq.com/s/dWltyHljJcEvMPZ11kw8fA"
+button = "速速前往"
+
+[[banners]]
+title = "据说这是复旦最幽默的社团..."
+action = "https://mp.weixin.qq.com/s?__biz=Mzk0OTQyMDc2Nw==&mid=2247490287&idx=1&sn=67d7811cc1deecc6cd7c68eb064092f6&chksm=c2c50c492117bfd331104add8e211dfcfc775817743c1e5fe069e6694b080b10bc3db8df45e0&xtrack=1&scene=0&subscene=274&clicktime=1725636488&enterid=1725636488&sessionid=0&ascene=7&fasttmpl_type=0&fasttmpl_fullversion=7372120-zh_CN-zip&fasttmpl_flag=0&realreporttime=1725636488059&devicetype=android-31&version=2800325a&nettype=WIFI&lang=zh_CN&session_us=gh_e232f65be59e&countrycode=CN&exportkey=n_ChQIAhIQ2yjHSH54ytJ5ZJTFYuEMThLxAQIE97dBBAEAAAAAAE69Nxer2iMAAAAOpnltbLcz9gKNyK89dVj0mD3P%2FlAVuOg1GQ8vjhv09a5cmjZVIvTexhk%2BX1ZL0mxsYTRiIJPF0t1c7wC%2BNfzx0Scn9Qfj8OJfuVYq%2B%2FDECBNE5nymD4nsEZ4TYNSiiz4tEpFdJ45WlLt84k8o3gzzW%2F2eGnQWOFjyOneMi3nbq9RxtH6GrMyQd%2BjJeS1sfZUrFCWYeqEPfxucaHD4NyWnS1njYy4LG2eA3gPFZfGN5mVhHoBqYAns44WTKZKrxA5I%2F3C583v6XXn8131Gqw7FLz6HqxIpcJMYG%2FA%3D&pass_ticket=XSg%2Br5zqCXNZiRrc7EsNPiL%2FhAdMtF%2FIb2dkkZTWKNM7PSo%2Bq0GWdXT574P9QYt3&wx_header=3"
+button = "来看乐子"
+
+[[banners]]
 title = "你的声音，从主持人队传向世界"
 action = "https://mp.weixin.qq.com/s/MOIvFNholxv5WhKHdLplww"
 button = "加入主队"
