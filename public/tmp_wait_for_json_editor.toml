@@ -33,11 +33,6 @@ action = "https://mp.weixin.qq.com/s/8t08AFySAJVbonSLH43SLQ"
 button = "了解国护"
 
 [[banners]]
-title = "与我们一起音跃光华，声动复旦"
-action = "https://mp.weixin.qq.com/s/C_3LOkjwp3ZnW-L66JVaSQ"
-button = "点我了解"
-
-[[banners]]
 title = "旦挞团队开发部招新啦！"
 action = "#345499"
 button = "加入旦挞"
