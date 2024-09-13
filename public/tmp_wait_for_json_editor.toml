@@ -13,6 +13,11 @@ action = "https://mp.weixin.qq.com/s/rk6TeZyyvap3KCHHaAocYA"
 button = "了解详情"
 
 [[banners]]
+title = "跑协招新 | 跑起来 便有风"
+action = "https://mp.weixin.qq.com/s/PnoQRY8LxbWsIM6piP-sDQ"
+button = "无痛上车"
+
+[[banners]]
 title = "招新：寻求致力于乡村教育的你"
 action = "https://mp.weixin.qq.com/s/ZYpS7p4z6M7f5uVxtaHyOA"
 button = "速速前来"
