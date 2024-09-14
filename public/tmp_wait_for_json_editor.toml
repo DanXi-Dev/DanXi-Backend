@@ -8,6 +8,11 @@ action = "https://mp.weixin.qq.com/s/dWltyHljJcEvMPZ11kw8fA"
 button = "速速前往"
 
 [[banners]]
+title = "与40校800人相遇在城市定向"
+action = "https://mp.weixin.qq.com/s/p6V847SvD1kKKyOC9GWlXw"
+button = "啥活动？"
+
+[[banners]]
 title = "招新：追寻立己达人的共同体"
 action = "https://mp.weixin.qq.com/s/rk6TeZyyvap3KCHHaAocYA"
 button = "了解详情"
