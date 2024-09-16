@@ -23,6 +23,11 @@ action = "https://mp.weixin.qq.com/s/rk6TeZyyvap3KCHHaAocYA"
 button = "了解详情"
 
 [[banners]]
+title = "病理撷趣招新"
+action = "https://mp.weixin.qq.com/s/saXIcRqgyzgLwTc2Pfd_MQ"
+button = "速速加入"
+
+[[banners]]
 title = "跑协招新 | 跑起来 便有风"
 action = "https://mp.weixin.qq.com/s/PnoQRY8LxbWsIM6piP-sDQ"
 button = "无痛上车"
