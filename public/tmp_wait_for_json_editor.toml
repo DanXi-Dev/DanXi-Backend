@@ -18,6 +18,11 @@ action = "https://mp.weixin.qq.com/s/lhLygU7PfG3O2lmF8fM0qA"
 button = "凑凑热闹"
 
 [[banners]]
+title = "校园解谜 | 反转！蒸旦宇宙"
+action = "https://mp.weixin.qq.com/s/AIsfwC0z74ul4RcNV5NnNA"
+button = "马上参与"
+
+[[banners]]
 title = "招新：追寻立己达人的共同体"
 action = "https://mp.weixin.qq.com/s/rk6TeZyyvap3KCHHaAocYA"
 button = "了解详情"
