@@ -13,11 +13,6 @@ action = "https://mp.weixin.qq.com/s/dWltyHljJcEvMPZ11kw8fA"
 button = "速速前往"
 
 [[banners]]
-title = "与40校800人相遇在城市定向"
-action = "https://mp.weixin.qq.com/s/p6V847SvD1kKKyOC9GWlXw"
-button = "啥活动？"
-
-[[banners]]
 title = "𝐘 𝐌𝐎𝐌𝐄𝐍𝐓𝐒征集|与你交换记忆"
 action = "https://mp.weixin.qq.com/s/lhLygU7PfG3O2lmF8fM0qA"
 button = "凑凑热闹"
