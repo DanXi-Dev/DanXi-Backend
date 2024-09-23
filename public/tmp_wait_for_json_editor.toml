@@ -28,6 +28,16 @@ action = "https://mp.weixin.qq.com/s/saXIcRqgyzgLwTc2Pfd_MQ"
 button = "速速加入"
 
 [[banners]]
+title = "「舆」鉴山海，「图」寻万物"
+action = "https://mp.weixin.qq.com/s/-Ptd0C02CD_PX9B0ta-5SA"
+button = "了解我们"
+
+[[banners]]
+title = "证协欢迎热爱投资的你！"
+action = "https://mp.weixin.qq.com/s/sGbyq2yhfLE9TkAfF8bTWA"
+button = "点我加入！"
+
+[[banners]]
 title = "跑协招新 | 跑起来 便有风"
 action = "https://mp.weixin.qq.com/s/PnoQRY8LxbWsIM6piP-sDQ"
 button = "无痛上车"
