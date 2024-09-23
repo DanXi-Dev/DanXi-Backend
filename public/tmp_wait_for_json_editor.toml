@@ -23,6 +23,11 @@ action = "https://mp.weixin.qq.com/s/rk6TeZyyvap3KCHHaAocYA"
 button = "了解详情"
 
 [[banners]]
+title = "共赴一场德奥语言文化的盛会"
+action = "https://mp.weixin.qq.com/s/59Mge6dJ_nsCzS_wfFgBKg"
+button = "点击加入"
+
+[[banners]]
 title = "病理撷趣招新"
 action = "https://mp.weixin.qq.com/s/saXIcRqgyzgLwTc2Pfd_MQ"
 button = "速速加入"
