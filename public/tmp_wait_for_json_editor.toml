@@ -3,11 +3,6 @@ stop_words = [ "蝻", "郭楠", "锅男", "蝈楠", "国钕", "下头", "普信�
 change_log = "久等了，旦夕 1.4.2 已经发布。这次更新是最近影响使用体验的 Bug 的修复集合。\nAndroid 用户请直接点击下面的按钮跳转官网下载；iOS/iPadOS 用户请等待 App Store 提示更新后，在商店中更新。"
 
 [[banners]]
-title = "校园解谜 | 反转！蒸旦宇宙"
-action = "https://mp.weixin.qq.com/s/AIsfwC0z74ul4RcNV5NnNA"
-button = "马上参与"
-
-[[banners]]
 title = "𝐘 𝐌𝐎𝐌𝐄𝐍𝐓𝐒征集|与你交换记忆"
 action = "https://mp.weixin.qq.com/s/lhLygU7PfG3O2lmF8fM0qA"
 button = "凑凑热闹"
@@ -36,11 +31,6 @@ button = "点我加入！"
 title = "跑协招新 | 跑起来 便有风"
 action = "https://mp.weixin.qq.com/s/PnoQRY8LxbWsIM6piP-sDQ"
 button = "无痛上车"
-
-[[banners]]
-title = "我在复旦搞同人"
-action = "https://mp.weixin.qq.com/s/AOlvXFKw-Nx-tAhnSESLuQ"
-button = "一键吃饭"
 
 [[banners]]
 title = "听他一声两声——"
