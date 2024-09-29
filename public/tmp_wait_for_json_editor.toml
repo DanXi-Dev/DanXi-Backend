@@ -28,11 +28,6 @@ action = "https://mp.weixin.qq.com/s/sGbyq2yhfLE9TkAfF8bTWA"
 button = "点我加入！"
 
 [[banners]]
-title = "跑协招新 | 跑起来 便有风"
-action = "https://mp.weixin.qq.com/s/PnoQRY8LxbWsIM6piP-sDQ"
-button = "无痛上车"
-
-[[banners]]
 title = "听他一声两声——"
 action = "https://mp.weixin.qq.com/s/CHvbtPqDQwXvkbl5Xgl4Dw"
 button = "定要请教"
