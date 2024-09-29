@@ -13,6 +13,16 @@ action = "https://mp.weixin.qq.com/s/59Mge6dJ_nsCzS_wfFgBKg"
 button = "点击加入"
 
 [[banners]]
+title = "复旦CTF校赛来了！"
+action = "https://mp.weixin.qq.com/s/AhWPsN7o5l2681CRbmNsCQ"
+button = "启动"
+
+[[banners]]
+title = "烛心招新|探索公益的无限可能"
+action = "https://mp.weixin.qq.com/s/1h2f7TcrGy_GL7yPUN15BA"
+button = "点亮烛光"
+
+[[banners]]
 title = "医学生的科普基地"
 action = "https://mp.weixin.qq.com/s/saXIcRqgyzgLwTc2Pfd_MQ"
 button = "速速加入"
