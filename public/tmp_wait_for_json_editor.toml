@@ -3,11 +3,6 @@ stop_words = [ "蝻", "郭楠", "锅男", "蝈楠", "国钕", "下头", "普信�
 change_log = "久等了，旦夕 1.4.2 已经发布。这次更新是最近影响使用体验的 Bug 的修复集合。\nAndroid 用户请直接点击下面的按钮跳转官网下载；iOS/iPadOS 用户请等待 App Store 提示更新后，在商店中更新。"
 
 [[banners]]
-title = "𝐘 𝐌𝐎𝐌𝐄𝐍𝐓𝐒征集|与你交换记忆"
-action = "https://mp.weixin.qq.com/s/lhLygU7PfG3O2lmF8fM0qA"
-button = "凑凑热闹"
-
-[[banners]]
 title = "共赴一场德奥语言文化的盛会"
 action = "https://mp.weixin.qq.com/s/59Mge6dJ_nsCzS_wfFgBKg"
 button = "点击加入"
