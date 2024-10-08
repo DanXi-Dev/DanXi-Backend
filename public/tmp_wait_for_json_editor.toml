@@ -3,41 +3,6 @@ stop_words = [ "蝻", "郭楠", "锅男", "蝈楠", "国钕", "下头", "普信�
 change_log = "久等了，旦夕 1.4.2 已经发布。这次更新是最近影响使用体验的 Bug 的修复集合。\nAndroid 用户请直接点击下面的按钮跳转官网下载；iOS/iPadOS 用户请等待 App Store 提示更新后，在商店中更新。"
 
 [[banners]]
-title = "共赴一场德奥语言文化的盛会"
-action = "https://mp.weixin.qq.com/s/59Mge6dJ_nsCzS_wfFgBKg"
-button = "点击加入"
-
-[[banners]]
-title = "复旦CTF校赛来了！"
-action = "https://mp.weixin.qq.com/s/AhWPsN7o5l2681CRbmNsCQ"
-button = "启动"
-
-[[banners]]
-title = "烛心招新|探索公益的无限可能"
-action = "https://mp.weixin.qq.com/s/1h2f7TcrGy_GL7yPUN15BA"
-button = "点亮烛光"
-
-[[banners]]
-title = "医学生的科普基地"
-action = "https://mp.weixin.qq.com/s/saXIcRqgyzgLwTc2Pfd_MQ"
-button = "速速加入"
-
-[[banners]]
-title = "「舆」鉴山海，「图」寻万物"
-action = "https://mp.weixin.qq.com/s/-Ptd0C02CD_PX9B0ta-5SA"
-button = "了解我们"
-
-[[banners]]
-title = "证协欢迎热爱投资的你！"
-action = "https://mp.weixin.qq.com/s/sGbyq2yhfLE9TkAfF8bTWA"
-button = "点我加入！"
-
-[[banners]]
-title = "听他一声两声——"
-action = "https://mp.weixin.qq.com/s/CHvbtPqDQwXvkbl5Xgl4Dw"
-button = "定要请教"
-
-[[banners]]
 title = "旦挞团队开发部招新啦！"
 action = "#345499"
 button = "加入旦挞"
