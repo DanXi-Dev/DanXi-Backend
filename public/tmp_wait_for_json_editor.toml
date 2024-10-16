@@ -7,6 +7,16 @@ title = "茶楼横幅位申请指南"
 action = "https://danxi-dev.feishu.cn/wiki/NfSfwq5I2izsbbkTcNdcnbgXnrf"
 button = "点击查看"
 
+[[banners]]
+title = "大师剧《苏步青》演员招募"
+action = "https://mp.weixin.qq.com/s/OPFDtTk6dwoiKbAErJx-QQ"
+button = "演员招募"
+
+[[banners]]
+title = "FDHC超燃年度公演"
+action = "https://mp.weixin.qq.com/s/01QvGxnNEIcECghiqPqQgg"
+button = "点击详情"
+
 [semester_start_date]
 487 = "2025-01-17"
 485 = "2024-09-02"
