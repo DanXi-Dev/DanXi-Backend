@@ -13,6 +13,11 @@ action = "https://mp.weixin.qq.com/s/OPFDtTk6dwoiKbAErJx-QQ"
 button = "演员招募"
 
 [[banners]]
+title = "惠风钟文学术周开启！"
+action = "https://mp.weixin.qq.com/s/8GhThDGRWoMv4y9AKLPHOg"
+button = "学术周"
+
+[[banners]]
 title = "FDHC超燃年度公演"
 action = "https://mp.weixin.qq.com/s/01QvGxnNEIcECghiqPqQgg"
 button = "点击详情"
