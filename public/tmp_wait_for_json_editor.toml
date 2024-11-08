@@ -12,6 +12,11 @@ title = "Talk Lab | 乡村儿童和长腿叔叔们"
 action = "https://mp.weixin.qq.com/s/OjmWExQyXT7wm7PdCEyBQA"
 button = "加入活动"
 
+[[banners]]
+title = "洞悉经贸风云，共探中欧未来"
+action = "https://mp.weixin.qq.com/s/mtTNT6qIVC2y-nnjduqTpg"
+button = "了解更多"
+
 [semester_start_date]
 487 = "2025-01-17"
 485 = "2024-09-02"
