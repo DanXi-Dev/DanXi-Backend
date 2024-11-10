@@ -8,11 +8,6 @@ action = "https://danxi-dev.feishu.cn/wiki/NfSfwq5I2izsbbkTcNdcnbgXnrf"
 button = "点击查看"
 
 [[banners]]
-title = "Talk Lab | 乡村儿童和长腿叔叔们"
-action = "https://mp.weixin.qq.com/s/OjmWExQyXT7wm7PdCEyBQA"
-button = "加入活动"
-
-[[banners]]
 title = "洞悉经贸风云，共探中欧未来"
 action = "##3410425"
 button = "了解更多"
