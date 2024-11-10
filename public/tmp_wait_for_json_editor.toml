@@ -14,7 +14,7 @@ button = "加入活动"
 
 [[banners]]
 title = "洞悉经贸风云，共探中欧未来"
-action = "https://mp.weixin.qq.com/s/mtTNT6qIVC2y-nnjduqTpg"
+action = "##3410425"
 button = "了解更多"
 
 [semester_start_date]
