@@ -3,6 +3,11 @@ stop_words = [ "蝻", "郭楠", "锅男", "蝈楠", "国钕", "下头", "普信�
 change_log = "久等了，旦夕 1.4.2 已经发布。这次更新是最近影响使用体验的 Bug 的修复集合。\nAndroid 用户请直接点击下面的按钮跳转官网下载；iOS/iPadOS 用户请等待 App Store 提示更新后，在商店中更新。"
 
 [[banners]]
+title = "破题弹指之间！"
+action = "https://mp.weixin.qq.com/s/XEsC2SGVJX-LipbcuPsFKA"
+button = "submit"
+
+[[banners]]
 title = "茶楼横幅位申请指南"
 action = "https://danxi-dev.feishu.cn/wiki/NfSfwq5I2izsbbkTcNdcnbgXnrf"
 button = "点击查看"
