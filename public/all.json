@@ -156,7 +156,7 @@
         "updatedAt": "2022-04-15 17:45:45",
         "objectId": "z1rxDCCD",
         "ACL": null,
-        "content": "DanXi 1.4.4 已经发布。这次更新包含了一批最近反馈的重大 bug 的紧急修复。\n注意：由于服务器遭受长期的 DDoS 攻击，必须在校园网环境（或使用 EasyConnect VPN）才能正常下载。Android 用户请直接点击下面的按钮跳转官网下载，也可以直接用浏览器访问 danxi.fduhole.com，选择「项目」-「校园助手」以下载。",
+        "content": "旦挞校园助手 1.4.5 已经发布。这次更新包含了最近半年的 bug 的修复和功能改进，也带来了内置的 WebVPN 功能。Android 用户请直接点击下面的按钮跳转官网下载，也可以直接用浏览器访问 danxi.fduhole.com，选择「项目」-「校园助手」以下载。",
         "maxVersion": -3
     },
     {
@@ -164,7 +164,7 @@
         "updatedAt": "2022-04-15 17:45:48",
         "objectId": "s7f2B22B",
         "ACL": null,
-        "content": "1.4.4",
+        "content": "1.4.5",
         "maxVersion": -2
     },
     {
