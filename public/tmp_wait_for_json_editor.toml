@@ -3,6 +3,11 @@ stop_words = [ "蝻", "郭楠", "锅男", "蝈楠", "国钕", "下头", "普信�
 change_log = "旦挞校园助手 1.4.5 已经发布。这次更新包含了最近半年的 bug 的修复和功能改进，也带来了内置的 WebVPN 功能。Android 用户请直接点击下面的按钮跳转官网下载，也可以直接用浏览器访问 danxi.fduhole.com，选择「项目」-「校园助手」以下载。"
 
 [[banners]]
+title = "12.7申城逐光 竞速城市定向"
+action = "https://mp.weixin.qq.com/s/zRtLxzHQlJA6JrT5ImL6eQ"
+button = "全新玩法"
+
+[[banners]]
 title = "旦挞猫猫表情包上新！"
 action = "https://mp.weixin.qq.com/s/2VOsHdKPeUQEjUgA43PQKQ"
 button = "戳一戳它"
