@@ -13,9 +13,9 @@ action = "https://mp.weixin.qq.com/s/2VOsHdKPeUQEjUgA43PQKQ"
 button = "戳一戳它"
 
 [[banners]]
-title = "茶楼横幅位申请指南"
-action = "https://danxi-dev.feishu.cn/wiki/NfSfwq5I2izsbbkTcNdcnbgXnrf"
-button = "点击查看"
+title = "和旦挞猫猫一起！"
+action = "https://mp.weixin.qq.com/s/tTf3MuHn3tCsuW6XcHtX2w"
+button = "合作指南"
 
 [semester_start_date]
 487 = "2025-02-17" # 24~25下
