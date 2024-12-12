@@ -13,7 +13,7 @@ action = "#388078"
 button = "点击查看"
 
 [[banners]]
-title = "庆祝公众号关注量破万，来领“A到”红包啦！"
+title = "庆祝公众号关注量破万，来领红包！"
 action = "https://mp.weixin.qq.com/s/fdyCxhNGTaxDwPB4ut6wjQ"
 button = "A到！"
 
