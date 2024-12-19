@@ -4,10 +4,6 @@ change_log = "旦挞校园助手 1.4.5 已经发布。这次更新包含了最�
 
 highlight_tag_ids = [15698]
 
-[[banners]]
-title = "带你入门CTF!"
-action = "https://mp.weixin.qq.com/s/AhWPsN7o5l2681CRbmNsCQ"
-button = "启动"
 
 [[banners]]
 title = "枫中心羽 爱在黎明破晓前 放映"
