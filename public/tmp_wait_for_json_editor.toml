@@ -6,9 +6,9 @@ highlight_tag_ids = [15698]
 
 
 [[banners]]
-title = "枫中心羽 爱在黎明破晓前 放映"
-action = "#388078"
-button = "点击查看"
+title = "带你入门CTF!"
+action = "https://mp.weixin.qq.com/s/GlFGuZ8RoDqOOgpIf31ltQ"
+button = "启动"
 
 [[banners]]
 title = "庆祝公众号关注量破万，来领红包！"
