@@ -4,6 +4,10 @@ change_log = "旦挞校园助手 1.4.5 已经发布。这次更新包含了最�
 
 highlight_tag_ids = [15698]
 
+[[banners]]
+title = "期末寄语特辑"
+action = "https://mp.weixin.qq.com/s/7FirXT1NVfZHOcHmXJIDRw?token=349389544&lang=zh_CN"
+button = "+1分"
 
 [[banners]]
 title = "带你入门CTF!"
