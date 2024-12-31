@@ -6,8 +6,8 @@ highlight_tag_ids = [15698]
 
 [[banners]]
 title = "2025，元旦快乐"
-action = "https://mp.weixin.qq.com/s/MwdV3CzJ-OSlf9g64skIDQ"
-button = "献词"
+action = "#401373"
+button = "来许愿吧"
 
 [[banners]]
 title = "期末寄语特辑"
