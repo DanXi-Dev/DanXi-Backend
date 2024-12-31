@@ -9,25 +9,25 @@ title = "2025，元旦快乐"
 action = "#401373"
 button = "来许愿吧"
 
-[[banners]]
-title = "期末寄语特辑"
-action = "https://mp.weixin.qq.com/s/7FirXT1NVfZHOcHmXJIDRw?token=349389544&lang=zh_CN"
-button = "+1分"
+# [[banners]]
+# title = "期末寄语特辑"
+# action = "https://mp.weixin.qq.com/s/7FirXT1NVfZHOcHmXJIDRw?token=349389544&lang=zh_CN"
+# button = "+1分"
 
-[[banners]]
-title = "带你入门CTF!"
-action = "https://mp.weixin.qq.com/s/GlFGuZ8RoDqOOgpIf31ltQ"
-button = "启动"
+# [[banners]]
+# title = "带你入门CTF!"
+# action = "https://mp.weixin.qq.com/s/GlFGuZ8RoDqOOgpIf31ltQ"
+# button = "启动"
 
-[[banners]]
-title = "庆祝公众号关注量破万，来领红包！"
-action = "https://mp.weixin.qq.com/s/fdyCxhNGTaxDwPB4ut6wjQ"
-button = "A到！"
+# [[banners]]
+# title = "庆祝公众号关注量破万，来领红包！"
+# action = "https://mp.weixin.qq.com/s/fdyCxhNGTaxDwPB4ut6wjQ"
+# button = "A到！"
 
-[[banners]]
-title = "和旦挞猫猫一起！"
-action = "https://mp.weixin.qq.com/s/tTf3MuHn3tCsuW6XcHtX2w"
-button = "合作指南"
+# [[banners]]
+# title = "和旦挞猫猫一起！"
+# action = "https://mp.weixin.qq.com/s/tTf3MuHn3tCsuW6XcHtX2w"
+# button = "合作指南"
 
 [semester_start_date]
 487 = "2025-02-17" # 24~25下
