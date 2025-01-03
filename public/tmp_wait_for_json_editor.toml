@@ -5,19 +5,14 @@ change_log = "旦挞校园助手 1.4.5 已经发布。这次更新包含了最�
 highlight_tag_ids = [15698]
 
 [[banners]]
-title = "带你入门CTF!"
-action = "https://mp.weixin.qq.com/s/GlFGuZ8RoDqOOgpIf31ltQ"
-button = "启动"
-
-[[banners]]
-title = "庆祝公众号关注量破万，来领红包！"
-action = "https://mp.weixin.qq.com/s/fdyCxhNGTaxDwPB4ut6wjQ"
-button = "A到！"
-
-[[banners]]
 title = "和旦挞猫猫一起！"
 action = "https://mp.weixin.qq.com/s/tTf3MuHn3tCsuW6XcHtX2w"
 button = "合作指南"
+
+[[banners]]
+title = "带你入门CTF!"
+action = "https://mp.weixin.qq.com/s/GlFGuZ8RoDqOOgpIf31ltQ"
+button = "启动"
 
 [semester_start_date]
 487 = "2025-02-17" # 24~25下
