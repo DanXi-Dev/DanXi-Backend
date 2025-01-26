@@ -5,6 +5,11 @@ change_log = "旦挞校园助手 1.4.6 已经发布。这次更新包含了最�
 highlight_tag_ids = [15698]
 
 [[banners]]
+title = "有奖征集蛋壳课评"
+action = "https://mp.weixin.qq.com/s/vaBIN021yV7RNF-MZzwJqg?token=2113523537&lang=zh_CN"
+button = "点击投喂"
+
+[[banners]]
 title = "和旦挞猫猫一起！"
 action = "https://mp.weixin.qq.com/s/tTf3MuHn3tCsuW6XcHtX2w"
 button = "合作指南"
