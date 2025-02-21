@@ -5,6 +5,11 @@ change_log = "旦挞校园助手 1.4.7 已经发布。这次更新包含了最�
 highlight_tag_ids = [15698]
 
 [[banners]]
+title = "助你比“99%”的人更清醒"
+action = "https://mp.weixin.qq.com/s/lpPSREP0nHvzL2jrtr0wdA"
+button = "赶走睡虫"
+
+[[banners]]
 title = "来PCS当假面骑士!!!"
 action = "https://mp.weixin.qq.com/s/QwIoinRFszuhisCXRQgTTA"
 button = "点击变身"
