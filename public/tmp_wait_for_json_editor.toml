@@ -5,6 +5,11 @@ change_log = "旦挞校园助手 1.4.7 已经发布。这次更新包含了最�
 highlight_tag_ids = [15698]
 
 [[banners]]
+title = "和主持人队赴春日之约"
+action = "https://mp.weixin.qq.com/s/nU1UYPX-ZfV7bnW3kRAQSg"
+button = "点击赴约"
+
+[[banners]]
 title = "DJ drop the beat!!"
 action = "https://mp.weixin.qq.com/s/QKNbAJz_6DKfnrr6_aAD0A"
 button = "点击播放"
