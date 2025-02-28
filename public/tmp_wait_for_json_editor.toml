@@ -15,11 +15,6 @@ action = "https://mp.weixin.qq.com/s/QKNbAJz_6DKfnrr6_aAD0A"
 button = "点击播放"
 
 [[banners]]
-title = "助你比“99%”的人更清醒"
-action = "https://mp.weixin.qq.com/s/lpPSREP0nHvzL2jrtr0wdA"
-button = "赶走睡虫"
-
-[[banners]]
 title = "茶楼学期报告发布啦"
 action = "https://mp.weixin.qq.com/s/VjRS6hqnKoMJyG_ItHR73Q"
 button = "点击查看"
