@@ -5,7 +5,7 @@ change_log = "旦挞校园助手 1.4.7 已经发布。这次更新包含了最�
 highlight_tag_ids = [15698]
 
 [[banners]]
-title = "裘新、金力在春季工作会的讲话"
+title = "复旦大学春季工作会议上的讲话"
 action = "https://mp.weixin.qq.com/s/xsMxqAs_LlAkhkS0FgUMfg"
 button = "查看"
 
