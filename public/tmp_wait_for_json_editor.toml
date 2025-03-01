@@ -19,21 +19,6 @@ title = "DJ drop the beat!!"
 action = "https://mp.weixin.qq.com/s/QKNbAJz_6DKfnrr6_aAD0A"
 button = "点击播放"
 
-[[banners]]
-title = "茶楼学期报告发布啦"
-action = "https://mp.weixin.qq.com/s/VjRS6hqnKoMJyG_ItHR73Q"
-button = "点击查看"
-
-[[banners]]
-title = "有奖征集蛋壳课评"
-action = "https://mp.weixin.qq.com/s/vaBIN021yV7RNF-MZzwJqg?token=2113523537&lang=zh_CN"
-button = "点击投喂"
-
-[[banners]]
-title = "和旦挞猫猫一起！"
-action = "https://mp.weixin.qq.com/s/tTf3MuHn3tCsuW6XcHtX2w"
-button = "合作指南"
-
 [semester_start_date]
 487 = "2025-02-17" # 24~25下
 485 = "2024-09-02" # 24~24上
