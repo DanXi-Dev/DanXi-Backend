@@ -5,6 +5,11 @@ change_log = "旦挞校园助手 1.4.7 已经发布。这次更新包含了最�
 highlight_tag_ids = [15698]
 
 [[banners]]
+title = "舆图 × 爱牙新型城市定向"
+action = "https://mp.weixin.qq.com/s/bCbS_vzbHQsKZBO18sie0g"
+button = "活动链接"
+
+[[banners]]
 title = "开启你的第一记冲拳"
 action = "https://mp.weixin.qq.com/s/Q2ZKD8Lye_jCdarKl2GfXA"
 button = "拳力以赴"
