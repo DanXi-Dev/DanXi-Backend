@@ -15,11 +15,6 @@ action = "https://mp.weixin.qq.com/s/Q2ZKD8Lye_jCdarKl2GfXA"
 button = "拳力以赴"
 
 [[banners]]
-title = "复旦大学春季工作会议上的讲话"
-action = "https://mp.weixin.qq.com/s/xsMxqAs_LlAkhkS0FgUMfg"
-button = "查看"
-
-[[banners]]
 title = "和主持人队赴春日之约"
 action = "https://mp.weixin.qq.com/s/nU1UYPX-ZfV7bnW3kRAQSg"
 button = "点击赴约"
