@@ -14,16 +14,6 @@ title = "舆图 × 爱牙新型城市定向"
 action = "https://mp.weixin.qq.com/s/bCbS_vzbHQsKZBO18sie0g"
 button = "活动链接"
 
-[[banners]]
-title = "开启你的第一记冲拳"
-action = "https://mp.weixin.qq.com/s/Q2ZKD8Lye_jCdarKl2GfXA"
-button = "拳力以赴"
-
-[[banners]]
-title = "和主持人队赴春日之约"
-action = "https://mp.weixin.qq.com/s/nU1UYPX-ZfV7bnW3kRAQSg"
-button = "点击赴约"
-
 [semester_start_date]
 487 = "2025-02-17" # 24~25下
 485 = "2024-09-02" # 24~24上
