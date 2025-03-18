@@ -5,7 +5,7 @@ change_log = "旦挞校园助手 1.4.7 已经发布。这次更新包含了最�
 highlight_tag_ids = [15698]
 
 [[banners]]
-title = "志愿招募！“鹰寄长空”书信交流等你来"
+title = "志愿招募！鹰寄长空等你来"
 action = "https://mp.weixin.qq.com/s/Bh_touVex-TC5VpO_RqiLA"
 button = "活动链接"
 
