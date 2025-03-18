@@ -5,6 +5,11 @@ change_log = "旦挞校园助手 1.4.7 已经发布。这次更新包含了最�
 highlight_tag_ids = [15698]
 
 [[banners]]
+title = "志愿招募！“鹰寄长空”书信交流等你来"
+action = "https://mp.weixin.qq.com/s/Bh_touVex-TC5VpO_RqiLA"
+button = "活动链接"
+
+[[banners]]
 title = "2025FEG电竞赛报名开启"
 action = "https://mp.weixin.qq.com/s/ZN4INGlouMEQRvOtkP2rsw"
 button = "点击报名"
@@ -13,11 +18,6 @@ button = "点击报名"
 title = "50校1000人一起玩城市定向"
 action = "https://mp.weixin.qq.com/s/XFOP2QH1utzCAuR-wyf7LQ"
 button = "啥活动？"
-
-[[banners]]
-title = "舆图 × 爱牙新型城市定向"
-action = "https://mp.weixin.qq.com/s/bCbS_vzbHQsKZBO18sie0g"
-button = "活动链接"
 
 [semester_start_date]
 487 = "2025-02-17" # 24~25下
