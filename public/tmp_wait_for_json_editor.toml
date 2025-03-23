@@ -10,11 +10,6 @@ title = "志愿招募！鹰寄长空等你来"
 action = "https://mp.weixin.qq.com/s/Bh_touVex-TC5VpO_RqiLA"	
 button = "活动链接"
 
-[[banners]]
-title = "2025FEG电竞赛报名开启"
-action = "https://mp.weixin.qq.com/s/ZN4INGlouMEQRvOtkP2rsw"	
-button = "点击报名"
-
 [semester_start_date]
 487 = "2025-02-17" # 24~25下
 485 = "2024-09-02" # 24~24上
