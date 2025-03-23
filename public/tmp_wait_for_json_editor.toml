@@ -15,11 +15,6 @@ title = "2025FEG电竞赛报名开启"
 action = "https://mp.weixin.qq.com/s/ZN4INGlouMEQRvOtkP2rsw"	
 button = "点击报名"
 
-[[banners]]
-title = "50校1000人一起玩城市定向"
-action = "https://mp.weixin.qq.com/s/XFOP2QH1utzCAuR-wyf7LQ"
-button = "啥活动？"
-
 [semester_start_date]
 487 = "2025-02-17" # 24~25下
 485 = "2024-09-02" # 24~24上
