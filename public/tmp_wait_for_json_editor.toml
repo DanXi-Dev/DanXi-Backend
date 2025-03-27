@@ -13,7 +13,7 @@ button = "点击查看"
 [[banners]]
 title = "心理学时|百廿同行 寻心之旅"
 action = "https://mp.weixin.qq.com/s/Da0D1w-Gh50jZQeNAETF3w"	
-button = "活动链接"
+button = "组队启航"
 
 [semester_start_date]
 487 = "2025-02-17" # 24~25下
