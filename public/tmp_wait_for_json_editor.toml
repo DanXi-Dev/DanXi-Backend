@@ -6,9 +6,14 @@ change_log = "旦挞校园助手 1.4.7 已经发布。这次更新包含了最�
 highlight_tag_ids = [15698]
 
 [[banners]]
-title = "志愿招募！鹰寄长空等你来"
+title = "心理学时|百廿同行 寻心之旅"
 action = "https://mp.weixin.qq.com/s/Bh_touVex-TC5VpO_RqiLA"	
 button = "活动链接"
+
+[[banners]]
+title = "志愿招募！鹰寄长空等你来"
+action = "https://mp.weixin.qq.com/s/Da0D1w-Gh50jZQeNAETF3w"	
+button = "组队启航"
 
 [semester_start_date]
 487 = "2025-02-17" # 24~25下
