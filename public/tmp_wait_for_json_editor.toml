@@ -5,6 +5,11 @@ change_log = "旦挞校园助手 1.4.7 已经发布。这次更新包含了最�
 
 highlight_tag_ids = [15698]
 
+ [[banners]]
+title = "茶楼横幅位申请指南"
+action = "https://danxi-dev.feishu.cn/wiki/NfSfwq5I2izsbbkTcNdcnbgXnrf"	
+button = "点击查看"
+
 [[banners]]
 title = "心理学时|百廿同行 寻心之旅"
 action = "https://mp.weixin.qq.com/s/Bh_touVex-TC5VpO_RqiLA"	
