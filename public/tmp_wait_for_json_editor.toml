@@ -11,6 +11,11 @@ action = "https://mp.weixin.qq.com/s/qg3ZzDOuXMAbmpH2R_bDyQ"
 button = "来面基！"
 
 [[banners]]
+title = "梦想辅导员招募|续写山海之约"
+action = "https://mp.weixin.qq.com/s/Tr3-iHe5QLPChXrGdlomhw"	
+button = "跨越山海"
+
+[[banners]]
 title = "「旦章济咏 诗财鸣春」古诗词大赛来啦！"
 action = "https://mp.weixin.qq.com/s/T1_qZhCvcfNwIWzZ-XEinQ"	
 button = "古诗词大赛"
