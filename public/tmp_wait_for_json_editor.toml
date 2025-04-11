@@ -11,6 +11,11 @@ action = "https://mp.weixin.qq.com/s/qg3ZzDOuXMAbmpH2R_bDyQ"
 button = "来面基！"
 
 [[banners]]
+title = "耗时3年,复旦人打造MC版复旦"
+action = "#442293"	
+button = "速速围观"
+
+[[banners]]
 title = "梦想辅导员招募|续写山海之约"
 action = "https://mp.weixin.qq.com/s/Tr3-iHe5QLPChXrGdlomhw"	
 button = "跨越山海"
