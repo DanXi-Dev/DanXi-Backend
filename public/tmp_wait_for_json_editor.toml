@@ -21,7 +21,7 @@ action = "https://mp.weixin.qq.com/s/qg3ZzDOuXMAbmpH2R_bDyQ"
 button = "来面基！"
 
 [[banners]]
-title = "耗时3年,复旦人打造MC版复旦"
+title = "耗时3年，复旦人打造MC版复旦"
 action = "#442293"	
 button = "速速围观"
 
