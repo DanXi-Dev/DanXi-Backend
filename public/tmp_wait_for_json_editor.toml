@@ -6,6 +6,11 @@ change_log = "旦挞校园助手 1.4.7 已经发布。这次更新包含了最�
 highlight_tag_ids = [15698]
 
 [[banners]]
+title = "5301大讲堂，走进AI+社会科学"
+action = "https://mp.weixin.qq.com/s/wHidu0mO3bkL0EgmRgApxg"	
+button = "前来抢座"
+
+[[banners]]
 title = "爱牙协会俳句大赛"
 action = "https://mp.weixin.qq.com/s/Wa4gFuiZ0taGqoX3Gka9rA"	
 button = "活动链接"
