@@ -6,6 +6,11 @@ change_log = "旦挞校园助手 1.4.7 已经发布。这次更新包含了最�
 highlight_tag_ids = [15698]
 
 [[banners]]
+title = "四周年网页｜快来合成大猫猫！"
+action = "https://danxi.fduhole.com/celebration"	
+button = "生日快乐！"
+
+[[banners]]
 title = "爱牙协会俳句大赛"
 action = "https://mp.weixin.qq.com/s/Wa4gFuiZ0taGqoX3Gka9rA"	
 button = "活动链接"
