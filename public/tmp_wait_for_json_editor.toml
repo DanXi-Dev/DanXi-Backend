@@ -6,29 +6,14 @@ change_log = "旦挞校园助手 1.4.7 已经发布。这次更新包含了最�
 highlight_tag_ids = [15698]
 
 [[banners]]
-title = "5301大讲堂，走进AI+社会科学"
-action = "https://mp.weixin.qq.com/s/wHidu0mO3bkL0EgmRgApxg"	
-button = "前来抢座"
-
-[[banners]]
 title = "爱牙协会俳句大赛"
 action = "https://mp.weixin.qq.com/s/Wa4gFuiZ0taGqoX3Gka9rA"	
 button = "活动链接"
 
 [[banners]]
-title = "旦挞四周年｜4·15线下活动！"
-action = "https://mp.weixin.qq.com/s/qg3ZzDOuXMAbmpH2R_bDyQ"	
-button = "来面基！"
-
-[[banners]]
 title = "耗时3年，复旦人打造MC版复旦"
 action = "#442293"	
 button = "速速围观"
-
-[[banners]]
-title = "梦想辅导员招募|续写山海之约"
-action = "https://mp.weixin.qq.com/s/Tr3-iHe5QLPChXrGdlomhw"	
-button = "跨越山海"
 
 [[banners]]
 title = "茶楼横幅位申请指南"
