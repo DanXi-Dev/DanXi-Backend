@@ -11,6 +11,11 @@ action = "https://danxi.fduhole.com/celebration"
 button = "生日快乐！"
 
 [[banners]]
+title = "髓库有你，生命不熄！"
+action = "https://mp.weixin.qq.com/s/sPUOlJfTRNIpKYc-dng39Q"	
+button = "延续希望"
+
+[[banners]]
 title = "爱牙协会俳句大赛"
 action = "https://mp.weixin.qq.com/s/Wa4gFuiZ0taGqoX3Gka9rA"	
 button = "活动链接"
