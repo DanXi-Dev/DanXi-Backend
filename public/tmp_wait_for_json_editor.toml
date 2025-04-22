@@ -11,6 +11,11 @@ action = "https://danxi.fduhole.com/celebration"
 button = "生日快乐！"
 
 [[banners]]
+title = "经世济民，支等你来！"
+action = "https://mp.weixin.qq.com/s/nTk_Wn4qemnov9zJmoa9oA"	
+button = "查看详情"
+
+[[banners]]
 title = "机甲大师，启动！"
 action = "https://mp.weixin.qq.com/s/uhotpjhUXzgwx5WtHZjRvg"	
 button = "加入RM"
