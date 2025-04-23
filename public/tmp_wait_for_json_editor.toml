@@ -31,16 +31,6 @@ action = "https://mp.weixin.qq.com/s/sPUOlJfTRNIpKYc-dng39Q"
 button = "延续希望"
 
 [[banners]]
-title = "爱牙协会俳句大赛"
-action = "https://mp.weixin.qq.com/s/Wa4gFuiZ0taGqoX3Gka9rA"	
-button = "活动链接"
-
-[[banners]]
-title = "耗时3年，复旦人打造MC版复旦"
-action = "#442293"	
-button = "速速围观"
-
-[[banners]]
 title = "茶楼横幅位申请指南"
 action = "https://danxi-dev.feishu.cn/wiki/NfSfwq5I2izsbbkTcNdcnbgXnrf"	
 button = "点击查看"
