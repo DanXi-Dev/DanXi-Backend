@@ -6,29 +6,9 @@ change_log = "旦挞校园助手 1.4.7 已经发布。这次更新包含了最�
 highlight_tag_ids = [15698]
 
 [[banners]]
-title = "四周年网页｜快来合成大猫猫！"
-action = "https://danxi.fduhole.com/celebration"	
-button = "生日快乐！"
-
-[[banners]]
-title = "植愈·译动·百廿行定向"
-action = "https://mp.weixin.qq.com/s/mVzRrMlifrdrwRNUfWgnIQ"	
-button = "扫码启航"
-
-[[banners]]
-title = "经世济民，支等你来！"
-action = "https://mp.weixin.qq.com/s/nTk_Wn4qemnov9zJmoa9oA"	
-button = "查看详情"
-
-[[banners]]
-title = "机甲大师，启动！"
-action = "https://mp.weixin.qq.com/s/uhotpjhUXzgwx5WtHZjRvg"	
-button = "加入RM"
-
-[[banners]]
-title = "髓库有你，生命不熄！"
-action = "https://mp.weixin.qq.com/s/sPUOlJfTRNIpKYc-dng39Q"	
-button = "延续希望"
+title = "地名大会丨河山与共，星月于途"
+action = "https://mp.weixin.qq.com/s/OBLQIDUtXOQN74Z61Qt_QQ"	
+button = "速来答题"
 
 [[banners]]
 title = "茶楼横幅位申请指南"
