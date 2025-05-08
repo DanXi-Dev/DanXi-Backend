@@ -11,11 +11,6 @@ action = "https://mp.weixin.qq.com/s/-u7_t9KDR1YosA3b00Q53A"
 button = "欢迎预约"
 
 [[banners]]
-title = "地名大会丨河山与共，星月于途"
-action = "https://mp.weixin.qq.com/s/OBLQIDUtXOQN74Z61Qt_QQ"	
-button = "速来答题"
-
-[[banners]]
 title = "绘梦腾飞！腾飞文创设计赛"
 action = "https://mp.weixin.qq.com/s/qxMUK6s2r21gd1reOVpzsA"	
 button = "点击投稿"
