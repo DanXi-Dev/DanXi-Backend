@@ -6,6 +6,11 @@ change_log = "旦挞校园助手 1.4.7 已经发布。这次更新包含了最�
 highlight_tag_ids = [15698]
 
 [[banners]]
+title = "通识课程写作一对一辅导"
+action = "https://mp.weixin.qq.com/s/-u7_t9KDR1YosA3b00Q53A"	
+button = "欢迎预约"
+
+[[banners]]
 title = "地名大会丨河山与共，星月于途"
 action = "https://mp.weixin.qq.com/s/OBLQIDUtXOQN74Z61Qt_QQ"	
 button = "速来答题"
