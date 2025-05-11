@@ -11,9 +11,9 @@ action = "https://mp.weixin.qq.com/s/-u7_t9KDR1YosA3b00Q53A"
 button = "欢迎预约"
 
 [[banners]]
-title = "绘梦腾飞！腾飞文创设计赛"
-action = "https://mp.weixin.qq.com/s/qxMUK6s2r21gd1reOVpzsA"	
-button = "点击投稿"
+title = "征集：你的独家复旦记忆"
+action = "https://mp.weixin.qq.com/s/eBKI8KNGiZCw9CgEbmCK3w"	
+button = "一键参与"
 
 [[banners]]
 title = "茶楼横幅位申请指南"
