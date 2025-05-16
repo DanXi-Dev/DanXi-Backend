@@ -7,7 +7,7 @@ highlight_tag_ids = [15698]
 
 [[banners]]
 title = "毕业红毯！来送旦挞出道！"
-action = "tuanyi.fudan.edu.cn/vote"	
+action = "https://tuanyi.fudan.edu.cn/vote"	
 button = "点击投票"
 
 [[banners]]
