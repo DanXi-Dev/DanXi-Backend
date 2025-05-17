@@ -15,10 +15,6 @@ title = "通识课程写作一对一辅导"
 action = "https://mp.weixin.qq.com/s/-u7_t9KDR1YosA3b00Q53A"	
 button = "欢迎预约"
 
-[[banners]]
-title = "征集：你的独家复旦记忆"
-action = "https://mp.weixin.qq.com/s/eBKI8KNGiZCw9CgEbmCK3w"	
-button = "一键参与"
 
 [[banners]]
 title = "魔术社十周年纪念晚会"
