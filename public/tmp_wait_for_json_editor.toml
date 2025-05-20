@@ -11,6 +11,11 @@ action = "https://tuanyi.fudan.edu.cn/vote"
 button = "点击投票"
 
 [[banners]]
+title = "“百廿光华，心随齿动”爱牙主题游园会"
+action = "https://mp.weixin.qq.com/s/RVLCS8I1hE_T_sSKFCJjJA"	
+button = "活动链接"
+
+[[banners]]
 title = "通识课程写作一对一辅导"
 action = "https://mp.weixin.qq.com/s/-u7_t9KDR1YosA3b00Q53A"	
 button = "欢迎预约"
