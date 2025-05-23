@@ -77,6 +77,12 @@ def main():
         help="original toml file path. If provided, will only upload images that are not in the toml file. (default: ../public/tmp_wait_for_json_editor.toml)",
         default="../public/tmp_wait_for_json_editor.toml",
     )
+    parser.add_argument(
+        "--sticker_folder",
+        required=False,
+        help="sticker folder path. (default: current folder)",
+        default=".",
+    )
     args = parser.parse_args()
 
     original_id2sha256: Dict[str, str] = {}
@@ -89,7 +95,7 @@ def main():
         for item in sticker_data:
             original_id2sha256[item["id"]] = item["sha256"]
 
-    cwd = os.getcwd()
+    cwd = args.sticker_folder
     print(f"在 {cwd} 中扫描图片")
 
     output_data: List[Dict[str, str | Path]] = []
