@@ -10,10 +10,6 @@ updated_at = "2025-05-20T13:00:00+0800"
 content = "近期，我们发现信息办更新了 UIS 的登录方式，导致很多同学在 Windows / Android / Linux 端无法登录 UIS，提示「超时」等错误。该问题已经在内测版修复。如果遇到，请从登录界面点击「无法登录？」加入内测群，在群文件中获取最新版本。新的正式版也将不日发布。"
 build = 999
 
-[[banners]]
-title = "毕业红毯！来送旦挞出道！"
-action = "https://tuanyi.fudan.edu.cn/vote"	
-button = "点击投票"
 
 [[banners]]
 title = "通识课程写作一对一辅导"
