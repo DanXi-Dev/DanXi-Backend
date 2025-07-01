@@ -31,11 +31,6 @@ title = "茶楼横幅位申请指南"
 action = "https://danxi-dev.feishu.cn/wiki/NfSfwq5I2izsbbkTcNdcnbgXnrf"	
 button = "点击查看"
 
-[[banners]]
-title = "创协活动｜OC征稿夏日特典"
-action = "https://mp.weixin.qq.com/s/dRV105V_lhGm9NglqAoHUA"	
-button = "领域展开"
-
 [semester_start_date]
 487 = "2025-02-17" # 24~25下
 485 = "2024-09-02" # 24~24上
