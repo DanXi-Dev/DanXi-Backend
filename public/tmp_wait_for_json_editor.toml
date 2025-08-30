@@ -36,11 +36,6 @@ title = "推兵棋也能拿“国奖”？"
 action = "https://mp.weixin.qq.com/s/ACjuLHY9P8KAf8i0S6qrFg"	
 button = "来战！"
 
-[[banners]]
-title = "公园小花竟是生态杀手"
-action = "https://mp.weixin.qq.com/s/bqhQTyIfPHix6-6nOx_B0w"	
-button = "快来看看"
-
 [semester_start_date]
 487 = "2025-02-17" # 24~25下
 485 = "2024-09-02" # 24~24上
