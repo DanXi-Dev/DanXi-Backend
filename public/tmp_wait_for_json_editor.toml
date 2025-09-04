@@ -27,6 +27,21 @@ build = 999
 
 
 [[banners]]
+title = "机甲大师，等你来战！"
+action = "https://mp.weixin.qq.com/s/ziXgOpNLyLrxZE0U4bmvNQ"	
+button = "加入星云"
+
+[[banners]]
+title = "来PCS当复旦电脑骑士！"
+action = "https://mp.weixin.qq.com/s/a466fg3AL2kzEY6EEoeelQ"	
+button = "我真幸运"
+
+[[banners]]
+title = "舆图迎新运转成员招募"
+action = "#501617"	
+button = "立即报名"
+
+[[banners]]
 title = "茶楼横幅位申请指南"
 action = "https://danxi-dev.feishu.cn/wiki/NfSfwq5I2izsbbkTcNdcnbgXnrf"	
 button = "点击查看"
