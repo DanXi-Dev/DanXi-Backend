@@ -47,11 +47,6 @@ action = "#501617"
 button = "立即报名"
 
 [[banners]]
-title = "来玩三小时，四年不迷路"
-action = "https://mp.weixin.qq.com/s/KvtwlDm1ScGpkmf9470zyg"	
-button = "啥活动？"
-
-[[banners]]
 title = "欢迎加入复旦飞盘社"
 action = "#502436"	
 button = "了解详情"
