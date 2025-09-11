@@ -66,6 +66,11 @@ title = "心舞招新| 以舞之名，赴你之约"
 action = "#508317"	
 button = "不如跳舞"
 
+[[banners]]
+title = "复旦大学校园广播新人大赛"
+action = "https://mp.weixin.qq.com/s/UXyf4yroIhE1pAlQrR1Npw"	
+button = "点击报名"
+
 [semester_start_date]
 504 = "2025-09-08" # 25-26上
 487 = "2025-02-17" # 24~25下
