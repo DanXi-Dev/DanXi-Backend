@@ -40,10 +40,6 @@ title = "来PCS当复旦电脑骑士！"
 action = "https://mp.weixin.qq.com/s/a466fg3AL2kzEY6EEoeelQ"
 button = "我真幸运"
 
-[[banners]]
-title = "舆图迎新运转成员招募"
-action = "#501617"
-button = "立即报名"
 
 [[banners]]
 title = "欢迎加入复旦飞盘社"
