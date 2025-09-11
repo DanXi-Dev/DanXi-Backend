@@ -35,11 +35,6 @@ title = "心向本草，一叶知秋"
 action = "https://mp.weixin.qq.com/s/r3NT1B2YQpV-8YvZTyp7TQ"
 button = "寻芳而至"
 
-[[banners]]
-title = "来PCS当复旦电脑骑士！"
-action = "https://mp.weixin.qq.com/s/a466fg3AL2kzEY6EEoeelQ"
-button = "我真幸运"
-
 
 [[banners]]
 title = "欢迎加入复旦飞盘社"
@@ -50,6 +45,16 @@ button = "了解详情"
 title = "卿云弓社，弓候君临"
 action = "https://mp.weixin.qq.com/s/9kTzsjNN0j2stT4Vzqixhg"
 button = "立即起射"
+
+[[banners]]
+title = "旦口喜剧社团招新宣传活动"
+action = "https://mp.weixin.qq.com/s/bLtHWwbEVt_pk3vQIk01gw"
+button = "加入旦口"
+
+[[banners]]
+title = "偷得浮生，半日茶闲"
+action = "https://mp.weixin.qq.com/s/8xwbyWPLYhj8qDOTxizDdQ"
+button = "来坐坐"
 
 [[banners]]
 title = "茶楼横幅位申请指南"
