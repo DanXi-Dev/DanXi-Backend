@@ -42,11 +42,6 @@ action = "#502436"
 button = "了解详情"
 
 [[banners]]
-title = "卿云弓社，弓候君临"
-action = "https://mp.weixin.qq.com/s/9kTzsjNN0j2stT4Vzqixhg"
-button = "立即起射"
-
-[[banners]]
 title = "欢迎占领复旦幽默高地"
 action = "https://mp.weixin.qq.com/s/bLtHWwbEVt_pk3vQIk01gw"
 button = "加入旦口"
