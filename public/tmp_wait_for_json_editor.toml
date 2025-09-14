@@ -35,6 +35,10 @@ title = "心向本草，一叶知秋"
 action = "https://mp.weixin.qq.com/s/r3NT1B2YQpV-8YvZTyp7TQ"
 button = "寻芳而至"
 
+[[banners]]
+title = "50校1000人一起玩城市定向"
+action = "https://mp.weixin.qq.com/s/8wx12Qaye0DtbJauPjgQdg"
+button = "啥活动？"
 
 [[banners]]
 title = "欢迎加入复旦飞盘社"
