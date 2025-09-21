@@ -36,6 +36,11 @@ action = "https://danxi-dev.feishu.cn/wiki/NfSfwq5I2izsbbkTcNdcnbgXnrf"
 button = "点击查看"
 
 [[banners]]
+title = "一起来玩星际争霸2！"
+action = "https://mp.weixin.qq.com/s/sMPg_cfD1sujEnyWk4n4EQ"	
+button = "点击查看"
+
+[[banners]]
 title = "复旦大学校园广播新人大赛"
 action = "https://mp.weixin.qq.com/s/UXyf4yroIhE1pAlQrR1Npw"	
 button = "点击报名"
