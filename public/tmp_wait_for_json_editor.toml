@@ -31,16 +31,6 @@ content = "经过一个假期的努力，Flutter 端（Android / Linux / Windows
 build = 345
 
 [[banners]]
-title = "50校1000人一起玩城市定向"
-action = "https://mp.weixin.qq.com/s/8wx12Qaye0DtbJauPjgQdg"
-button = "啥活动？"
-
-[[banners]]
-title = "欢迎加入复旦飞盘社"
-action = "#502436"
-button = "了解详情"
-
-[[banners]]
 title = "茶楼横幅位申请指南"
 action = "https://danxi-dev.feishu.cn/wiki/NfSfwq5I2izsbbkTcNdcnbgXnrf"	
 button = "点击查看"
