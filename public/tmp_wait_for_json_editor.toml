@@ -31,6 +31,11 @@ content = "经过一个假期的努力，Flutter 端（Android / Linux / Windows
 build = 345
 
 [[banners]]
+title = "数院大神，等你来问！"
+action = "https://mp.weixin.qq.com/s/YvpMsQ1VAdHRYN5KVJSR0w"	
+button = "一键答疑"
+
+[[banners]]
 title = "茶楼横幅位申请指南"
 action = "https://danxi-dev.feishu.cn/wiki/NfSfwq5I2izsbbkTcNdcnbgXnrf"	
 button = "点击查看"
