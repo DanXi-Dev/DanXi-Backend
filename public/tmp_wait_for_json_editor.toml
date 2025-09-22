@@ -60,11 +60,6 @@ title = "空山无人 遥望星辰"
 action = "https://mp.weixin.qq.com/s/zw_s6PS3cJHrjTCKA0g5zg"	
 button = "四处流亡"
 
-[[banners]]
-title = "欢迎占领复旦幽默高地"
-action = "https://mp.weixin.qq.com/s/bLtHWwbEVt_pk3vQIk01gw"	
-button = "加入旦口"
-
 [semester_start_date]
 504 = "2025-09-08" # 25-26上
 487 = "2025-02-17" # 24~25下
