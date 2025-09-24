@@ -46,11 +46,6 @@ action = "https://mp.weixin.qq.com/s/sMPg_cfD1sujEnyWk4n4EQ"
 button = "点击查看"
 
 [[banners]]
-title = "复旦大学校园广播新人大赛"
-action = "https://mp.weixin.qq.com/s/UXyf4yroIhE1pAlQrR1Npw"	
-button = "点击报名"
-
-[[banners]]
 title = "韩语社邀请你言遇世界"
 action = "https://mp.weixin.qq.com/s/vNL0QHZyHA1cnh-e4vw4Ow"	
 button = "환영해"
