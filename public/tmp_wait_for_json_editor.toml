@@ -41,11 +41,6 @@ action = "https://danxi-dev.feishu.cn/wiki/NfSfwq5I2izsbbkTcNdcnbgXnrf"
 button = "点击查看"
 
 [[banners]]
-title = "一起来玩星际争霸2！"
-action = "https://mp.weixin.qq.com/s/sMPg_cfD1sujEnyWk4n4EQ"	
-button = "点击查看"
-
-[[banners]]
 title = "快来加入旦喵大家庭"
 action = "#519670"	
 button = "咪咪喵喵"
