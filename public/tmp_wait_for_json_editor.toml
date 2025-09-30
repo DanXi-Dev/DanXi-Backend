@@ -42,9 +42,14 @@ action = "https://mp.weixin.qq.com/s/F6PrYef-sMLKH1hG3VAsNg"
 button = "点亮烛光"
 
 [[banners]]
-title = "远程阅读招募丨云端相伴，共读成长"
-action = "https://mp.weixin.qq.com/s/DzJvEG2kgstVElWbEeNNWA"	
-button = "相约云端"
+title = "上海公益行招募丨心聚申城，与爱同行"
+action = "https://mp.weixin.qq.com/s/iqWrkVq1wX-kZujVZMN1ZA"	
+button = "益路同行"
+
+[[banners]]
+title = "梦想辅导员招募丨以爱为灯，烛照未来"
+action = "https://mp.weixin.qq.com/s/QA4w0HJDP1ErDgHkPgzPNw"	
+button = "跨越山海"
 
 [[banners]]
 title = "茶楼横幅位申请指南"
