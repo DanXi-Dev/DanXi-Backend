@@ -30,12 +30,6 @@ updated_at = "2025-09-07T23:38:00+0800"
 content = "经过一个假期的努力，Flutter 端（Android / Linux / Windows）的复旦相关接口的维修工作已接近尾声。我们将目前已知的情况总结如下：\n\n考试与成绩功能：尚未修复\n\n其他复旦相关功能（登录、课表、首页各项功能……）：已修复，即将发布\n\n茶楼：图片上传、图片查看和获取 tags 目前可能无法工作，为新近发生的后端问题，正在检修中。其他功能正常\n\n明天新学期开学，Flutter 端的新版本也将在最近两日内发布。感谢开发组各个同学抽出大量业余时间进行细致耐心的大量工作，也感谢各位同学的陪伴和等待！\n\n另外，也欢迎各位愿意测试新版本的同学加入 QQ 内测群，提前获取最新内测版本、提供一线反馈：941342818"
 build = 345
 
-
-[[banners]]
-title = "在复旦讲自己的家乡话"
-action = "https://mp.weixin.qq.com/s/K4kY17USt6klv2Kky8jixA"	
-button = "我也要讲"
-
 [[banners]]
 title = "茶楼横幅位申请指南"
 action = "https://danxi-dev.feishu.cn/wiki/NfSfwq5I2izsbbkTcNdcnbgXnrf"	
