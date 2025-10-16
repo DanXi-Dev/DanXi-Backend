@@ -45,6 +45,11 @@ title = "来“病理撷趣”做科普！"
 action = "https://mp.weixin.qq.com/s/mQC-6wpfnUbGsop2BNkrZA"	
 button = "速速加入"
 
+[[banners]]
+title = "心理学时项目IM U"
+action = "https://mp.weixin.qq.com/s/YizW-RESBz12hYdROLZEVg"	
+button = "点此报名"
+
 [semester_start_date]
 504 = "2025-09-08" # 25-26上
 487 = "2025-02-17" # 24~25下
