@@ -36,14 +36,9 @@ action = "https://danxi-dev.feishu.cn/wiki/NfSfwq5I2izsbbkTcNdcnbgXnrf"
 button = "点击查看"
 
 [[banners]]
-title = "大学生必学丨12306购票技巧"
-action = "https://mp.weixin.qq.com/s/Zg3MA45p5IqPrCm5OIrmng"	
-button = "舆图讲座"
-
-[[banners]]
-title = "来“病理撷趣”做科普！"
-action = "https://mp.weixin.qq.com/s/mQC-6wpfnUbGsop2BNkrZA"	
-button = "速速加入"
+title = "50校1000人一起玩城市定向"
+action = "https://mp.weixin.qq.com/s/K7IvOfR0Cr-DM3eKb_SVJQ"	
+button = "啥活动？"
 
 [semester_start_date]
 504 = "2025-09-08" # 25-26上
