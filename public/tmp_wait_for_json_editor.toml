@@ -40,6 +40,11 @@ title = "50校1000人一起玩城市定向"
 action = "https://mp.weixin.qq.com/s/K7IvOfR0Cr-DM3eKb_SVJQ"	
 button = "啥活动？"
 
+[[banners]]
+title = "hiohop社五周年校内公演"
+action = "https://mp.weixin.qq.com/s/RzK_nFkqdkrs6dpV1NXnpA"	
+button = "点击报名"
+
 [semester_start_date]
 504 = "2025-09-08" # 25-26上
 487 = "2025-02-17" # 24~25下
