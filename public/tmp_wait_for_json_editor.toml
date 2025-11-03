@@ -35,6 +35,11 @@ title = "茶楼横幅位申请指南"
 action = "https://danxi-dev.feishu.cn/wiki/NfSfwq5I2izsbbkTcNdcnbgXnrf"	
 button = "点击查看"
 
+[[banners]]
+title = "造血干细胞入库志愿招募"
+action = "##4921865"	
+button = "志愿招募"
+
 [semester_start_date]
 504 = "2025-09-08" # 25-26上
 487 = "2025-02-17" # 24~25下
