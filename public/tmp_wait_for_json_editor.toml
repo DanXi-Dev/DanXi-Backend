@@ -50,6 +50,11 @@ title = "高雅人士都在玩的城市定向"
 action = "https://mp.weixin.qq.com/s/Y7IyJgQeimQrcFZIw2P6Aw"	
 button = "啥活动？"
 
+[[banners]]
+title = "贵州铜仁支教实践活动"
+action = "https://mp.weixin.qq.com/s/4JaFIhrPSai341CGwV1B2A"	
+button = "点击了解"
+
 [semester_start_date]
 504 = "2025-09-08" # 25-26上
 487 = "2025-02-17" # 24~25下
