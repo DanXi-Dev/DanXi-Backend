@@ -55,6 +55,26 @@ title = "贵州铜仁支教实践活动"
 action = "https://mp.weixin.qq.com/s/4JaFIhrPSai341CGwV1B2A"	
 button = "点击了解"
 
+[[banners]]
+title = "红会战地模拟体验活动"
+action = "https://mp.weixin.qq.com/s/aCk-kePY-TOnTWoaeoKVSw"	
+button = "点击报名"
+
+[[banners]]
+title = "红十字会成分献血活动"
+action = "https://mp.weixin.qq.com/s/t99n2DqOVrOFvapgpSxH7Q"	
+button = "由此报名"
+
+[[banners]]
+title = "本草心校史植物定向赛等你来玩！"
+action = "https://mp.weixin.qq.com/s/ru-AY0IYGrRqBVQKjH3HQA"	
+button = "快来看看"
+
+[[banners]]
+title = "复旦大学程序设计竞赛"
+action = "https://mp.weixin.qq.com/s/lBEp29Ut1UlTIySHpE3agg"	
+button = "点击了解"
+
 [semester_start_date]
 504 = "2025-09-08" # 25-26上
 487 = "2025-02-17" # 24~25下
