@@ -2,7 +2,6 @@
 # requires-python = ">=3.13"
 # dependencies = [
 #     "pillow",
-#     "requests",
 #     "tomlkit",
 # ]
 # ///
@@ -16,16 +15,17 @@
 import os
 import hashlib
 import tomllib
+import shutil
 from PIL import Image
 from pathlib import Path
 from typing import List, Dict, cast
 import argparse
-import requests
 from tomlkit import aot, document, item as toml_item # type: ignore
 
 SUPPORTED_INPUT_EXTENSIONS = {".png", ".jpg", ".jpeg", ".gif"}
 OUTPUT_WEBP_QUALITY = 80  # Quality for WebP conversion (0-100)
 RESIZE_WIDTH = 150  # Resize width for WebP conversion
+URL_PREFIX = "https://static.fduhole.com/stickers/"
 
 
 def convert_to_webp(input_path: Path, output_path: Path, quality: int):
@@ -49,32 +49,12 @@ def calc_sha256(file_path: Path) -> str:
     return sha256_hash.hexdigest()
 
 
-def upload_image(token: str, image_path: Path) -> str:
-    URL = "https://image.fduhole.com/json"
-    with open(image_path, "rb") as f:
-        files = {"source": f}
-        response = requests.post(
-            URL, headers={"Authorization": f"Bearer {token}"}, files=files
-        )
-    assert (
-        response.status_code == 200
-    ), f"Error: {response.status_code} - {response.text}"
-    rep = response.json()
-    assert rep.get("status_code") == 200, f"Error: {rep.get('status_txt')}"
-    return rep["image"]["url"]
-
-
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument(
-        "--token",
-        required=True,
-        help="access token. Get it from https://auth.fduhole.com",
-    )
-    parser.add_argument(
         "--toml",
         required=False,
-        help="original toml file path. If provided, will only upload images that are not in the toml file. (default: ../public/tmp_wait_for_json_editor.toml)",
+        help="original toml file path. If provided, will only process images that are not in the toml file. (default: ../public/tmp_wait_for_json_editor.toml)",
         default="../public/tmp_wait_for_json_editor.toml",
     )
     parser.add_argument(
@@ -82,6 +62,12 @@ def main():
         required=False,
         help="sticker folder path. (default: current folder)",
         default=".",
+    )
+    parser.add_argument(
+        "--output",
+        required=False,
+        help="output directory for webp files. (default: ../public/stickers/)",
+        default="../public/stickers/",
     )
     args = parser.parse_args()
 
@@ -114,16 +100,20 @@ def main():
                     {"id": name, "sha256": sha256, "path": webp_filepath}
                 )
 
+    output_dir = Path(args.output)
+    output_dir.mkdir(parents=True, exist_ok=True)
+
     for item in output_data:
         id = cast(str, item["id"])
         path = cast(Path, item.pop("path"))
         if original_id2sha256.get(id) == item["sha256"]:
             print(f"跳过 {id}，已存在且未修改")
             continue
-        print(f"上传 {path}")
-        url = upload_image(args.token, path)
-        item["url"] = url
-        print(f"上传完成，链接：{url}")
+        dest_path = output_dir / f"{id}.webp"
+        print(f"复制 {path} -> {dest_path}")
+        shutil.copy(path, dest_path)
+        item["url"] = f"{URL_PREFIX}{id}.webp"
+        print(f"完成，链接：{item['url']}")
 
     # Save the output data to a file
     doc = document()
