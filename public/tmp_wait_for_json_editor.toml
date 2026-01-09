@@ -6,14 +6,14 @@ change_log = "旦挞校园助手 1.4.9 已经发布。这是我们近一年来�
 highlight_tag_ids = [15698]
 
 [[dev_notice]]
-updated_at = "2025-05-20T13:00:00+0800"
-content = "近期，我们发现信息办更新了 UIS 的登录方式，导致很多同学在 Windows / Android / Linux 端无法登录 UIS，提示「超时」等错误。该问题已经在内测版修复。如果遇到，请从登录界面点击「无法登录？」加入内测群，在群文件中获取最新版本。新的正式版也将不日发布。"
-build = 999
-
-[[dev_notice]]
 updated_at = "2025-06-05T16:30:00+0800"
 content = "最近我们运营的茶楼等服务频发运维事件，给一部分同学带来了不太好的使用体验。\n\n因此，我们上线了旦挞服务状态页，可以在这里了解到运维的最新事件、具体技术原因、修复进程。欢迎大家访问：\n\nhttps://uptime.fduhole.com/"
 build = 999
+
+[[dev_notice]]
+updated_at = "2025-05-20T13:00:00+0800"
+content = "近期，我们发现信息办更新了 UIS 的登录方式，导致很多同学在 Windows / Android / Linux 端无法登录 UIS，提示「超时」等错误。该问题已经在内测版修复。如果遇到，请从登录界面点击「无法登录？」加入内测群，在群文件中获取最新版本。新的正式版也将不日发布。"
+build = 345
 
 [[dev_notice]]
 updated_at = "2025-06-09T23:20:00+0800"
@@ -30,41 +30,16 @@ updated_at = "2025-09-07T23:38:00+0800"
 content = "经过一个假期的努力，Flutter 端（Android / Linux / Windows）的复旦相关接口的维修工作已接近尾声。我们将目前已知的情况总结如下：\n\n考试与成绩功能：尚未修复\n\n其他复旦相关功能（登录、课表、首页各项功能……）：已修复，即将发布\n\n茶楼：图片上传、图片查看和获取 tags 目前可能无法工作，为新近发生的后端问题，正在检修中。其他功能正常\n\n明天新学期开学，Flutter 端的新版本也将在最近两日内发布。感谢开发组各个同学抽出大量业余时间进行细致耐心的大量工作，也感谢各位同学的陪伴和等待！\n\n另外，也欢迎各位愿意测试新版本的同学加入 QQ 内测群，提前获取最新内测版本、提供一线反馈：941342818"
 build = 345
 
-
-[[banners]]
-title = "机甲大师，等你来战！"
-action = "https://mp.weixin.qq.com/s/ziXgOpNLyLrxZE0U4bmvNQ"	
-button = "加入星云"
-
-[[banners]]
-title = "来PCS当复旦电脑骑士！"
-action = "https://mp.weixin.qq.com/s/a466fg3AL2kzEY6EEoeelQ"	
-button = "我真幸运"
-
-[[banners]]
-title = "舆图迎新运转成员招募"
-action = "#501617"	
-button = "立即报名"
-
-[[banners]]
-title = "来玩三小时，四年不迷路"
-action = "https://mp.weixin.qq.com/s/KvtwlDm1ScGpkmf9470zyg"	
-button = "啥活动？"
-
-[[banners]]
-title = "欢迎加入复旦飞盘社"
-action = "#502436"	
-button = "了解详情"
-
-[[banners]]
-title = "卿云弓社，弓候君临"
-action = "https://mp.weixin.qq.com/s/9kTzsjNN0j2stT4Vzqixhg"	
-button = "立即起射"
-
 [[banners]]
 title = "茶楼横幅位申请指南"
 action = "https://danxi-dev.feishu.cn/wiki/NfSfwq5I2izsbbkTcNdcnbgXnrf"	
 button = "点击查看"
+
+[[banners]]
+title = "六星战队CTF冬令营"
+action = "#576733"	
+button = "变身黑客"
+
 
 [semester_start_date]
 504 = "2025-09-08" # 25-26上
