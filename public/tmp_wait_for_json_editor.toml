@@ -6,6 +6,11 @@ change_log = "旦挞校园助手 1.4.9 已经发布。这是我们近一年来�
 highlight_tag_ids = [15698]
 
 [[dev_notice]]
+updated_at = "2026-01-17T13:55:00+0800"
+content = "由于复旦信息办近期对 UIS 登录接口进行了调整，导致部分同学在 Windows / Android / Linux 端上退出登录后无法正常登录复旦学生账号。我们正在检修这一问题，并于接下来的版本中修复。在此之前，可以只登录旦挞账号来访问茶楼（需要校园网环境）。给大家带来的不便，敬请谅解！\n\n相关 Issue：\n\nhttps://github.com/DanXi-Dev/DanXi/issues/624"
+build = 999
+
+[[dev_notice]]
 updated_at = "2025-06-05T16:30:00+0800"
 content = "最近我们运营的茶楼等服务频发运维事件，给一部分同学带来了不太好的使用体验。\n\n因此，我们上线了旦挞服务状态页，可以在这里了解到运维的最新事件、具体技术原因、修复进程。欢迎大家访问：\n\nhttps://uptime.fduhole.com/"
 build = 999
