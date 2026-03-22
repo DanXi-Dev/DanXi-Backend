@@ -46,19 +46,10 @@ action = "https://mp.weixin.qq.com/s/ajHUSJlrtWLbrDbbAHv_ow"
 button = "了解详情"
 
 [[banners]]
-title = "民乐寻同好 弦歌待新人"
-action = "https://mp.weixin.qq.com/s/9LQjukUFxiNXsKkAjqKLyA"	
-button = "了解详情"
+title = "相约相辉X新现场”丨共赴艺术之约"
+action = "https://mp.weixin.qq.com/s/Y8sjHlWlB-pym96yZADBmA?from=groupmessage&isappinstalled=0&scene=1&clicktime=1773988019&enterid=1773988019"	
+button = "点击报名"
 
-[[banners]]
-title = "远程阅读招募丨共读一本书"
-action = "https://mp.weixin.qq.com/s/U8YHvk4oOjKGKDoXkVNY3w"	
-button = "共读童心"
-
-[[banners]]
-title = "拓客招新|春启公益新程"
-action = "https://mp.weixin.qq.com/s/rI83zfojbCw7Y4HU7BvBMQ"	
-button = "查看详情"
 
 [semester_start_date]
 504 = "2025-09-08" # 25-26上
