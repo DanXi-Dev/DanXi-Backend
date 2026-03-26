@@ -51,6 +51,10 @@ title = "烛心招新丨让爱跨越山海"
 action = "https://mp.weixin.qq.com/s/Rub-ETxGhYE2zFD0VNV3Hg"	
 button = "点亮烛光"
 
+[[banners]]
+title = "2026FEG报名开启"
+action = "https://mp.weixin.qq.com/s/SDsnMONk6oyJf5TEeOaT3Q"	
+button = "点击报名"
 
 [semester_start_date]
 504 = "2025-09-08" # 25-26上
