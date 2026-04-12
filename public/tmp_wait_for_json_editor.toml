@@ -50,6 +50,11 @@ title = "五周年｜4.15陪猫猫过生日"
 action = "https://mp.weixin.qq.com/s/jg2WgoLj9W4OEOfTZ88SWg"	
 button = "一起庆生"
 
+[[banners]]
+title = "来打真枪——实弹射击等你来"
+action = "https://mp.weixin.qq.com/s/EPmUA8GtOm1Dq8xPVbBF2w"	
+button = "开火！"
+
 [semester_start_date]
 504 = "2025-09-08" # 25-26上
 487 = "2025-02-17" # 24~25下
