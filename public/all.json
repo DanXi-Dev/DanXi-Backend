@@ -156,7 +156,7 @@
         "updatedAt": "2022-04-15 17:45:45",
         "objectId": "z1rxDCCD",
         "ACL": null,
-        "content": "旦挞校园助手 1.5.1 已经发布。本次更新新增茶楼「全站」入口，支持帖子 AI 总结、课表手动课程编辑与动态代理更新，并修复全站分页、WebVPN 登录重定向、首页今日课程计数等问题。请点击下面的按钮跳转官网下载，也可以直接用浏览器访问 danxi.fduhole.com，选择「项目」-「校园助手」页面下载。",
+        "content": "旦挞校园助手 1.5.2 已经发布，修复了前一版本发布以来的一些报告的问题，建议更新。请到 https://danxi.fduhole.com/ 更新。",
         "maxVersion": -3
     },
     {
@@ -164,7 +164,7 @@
         "updatedAt": "2022-04-15 17:45:48",
         "objectId": "s7f2B22B",
         "ACL": null,
-        "content": "1.5.1",
+        "content": "1.5.2",
         "maxVersion": -2
     },
     {
