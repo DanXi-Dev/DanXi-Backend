@@ -71,8 +71,7 @@ words = [ "嘉然今天吃掉了你的脑子", "蒙古上单大战帝国海军",
 
 [latest_version]
 # swift = "2.0.6" # swift 版不再需要这一字段
-<<<<<<< HEAD
-flutter = "1.5.1"
+flutter = "1.5.2"
 
 [[sticker]]
 id = "dx_murderous"
@@ -273,6 +272,3 @@ url = "https://static.fduhole.com/stickers/dx_touch_fish.webp"
 id = "dx_cate"
 sha256 = "d08a15a7b8554d801661cdb45e44ef6f10f0ba20622957e96361dce484355df8"
 url = "https://static.fduhole.com/stickers/dx_cate.webp"
-=======
-flutter = "1.5.2"
->>>>>>> 5b68dfe (update: publish 1.5.2 backend release metadata)
