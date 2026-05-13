@@ -50,6 +50,11 @@ title = "云南永平暑期支教招募"
 action = "https://mp.weixin.qq.com/s/DdAGOQKsI6ILmd2qQX3XPQ"	
 button = "共赴山海"
 
+[[banners]]
+title = "福建连城暑期支教招募"
+action = "https://mp.weixin.qq.com/s/NYGGsn80gvDIfIfFitSnUQ"	
+button = "点亮微光"
+
 [semester_start_date]
 504 = "2025-09-08" # 25-26上
 487 = "2025-02-17" # 24~25下
