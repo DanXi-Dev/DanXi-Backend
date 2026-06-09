@@ -46,6 +46,11 @@ title = "拓客支教招募|温暖同行"
 action = "https://mp.weixin.qq.com/s/OwhMuVLDe0wVdw97ksQL5w"	
 button = "查看详情"
 
+[[banners]]
+title = "毕业人物投票丨数院大神"
+action = "#660986"	
+button = "点击助力"
+
 [semester_start_date]
 504 = "2025-09-08" # 25-26上
 487 = "2025-02-17" # 24~25下
