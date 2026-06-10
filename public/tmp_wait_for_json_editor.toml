@@ -42,11 +42,6 @@ button = "立即加入"
 
 
 [[banners]]
-title = "拓客支教招募|温暖同行"
-action = "https://mp.weixin.qq.com/s/OwhMuVLDe0wVdw97ksQL5w"	
-button = "查看详情"
-
-[[banners]]
 title = "毕业人物投票丨数院大神"
 action = "#660986"	
 button = "点击助力"
