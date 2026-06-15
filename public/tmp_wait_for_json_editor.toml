@@ -42,14 +42,9 @@ button = "立即加入"
 
 
 [[banners]]
-title = "毕业人物投票丨数院大神"
-action = "#660986"	
-button = "点击助力"
-
-[[banners]]
-title = "助力 PCS 服务队出征"
-action = "https://mp.weixin.qq.com/s/zFffykg1CP6BIMB9JjBt1Q"	
-button = "快去投票"
+title = "用方言点奶茶？"
+action = "https://mp.weixin.qq.com/s/YviSZzJ52m5upSaCP0Gd-w﻿"	
+button = "即刻下单"
 
 [[banners]]
 title = "经院暑假支教队员招募"
