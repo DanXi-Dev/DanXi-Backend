@@ -40,6 +40,10 @@ title = "茶楼横幅位申请指南"
 action = "https://danxi-dev.feishu.cn/wiki/NfSfwq5I2izsbbkTcNdcnbgXnrf"	
 button = "立即加入"
 
+[[banners]]
+title = "让我们一起，点亮每个星星"
+action = "#674455"	
+button = "加入我们"
 
 [semester_start_date]
 504 = "2025-09-08" # 25-26上
