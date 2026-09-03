@@ -36,6 +36,11 @@ content = "经过一个假期的努力，Flutter 端（Android / Linux / Windows
 build = 345
 
 [[banners]]
+title = "让我们一起，点亮每个星星"
+action = "#705833"
+button = "加入我们"
+
+[[banners]]
 title = "茶楼横幅位申请指南"
 action = "https://danxi-dev.feishu.cn/wiki/NfSfwq5I2izsbbkTcNdcnbgXnrf"	
 button = "立即加入"
