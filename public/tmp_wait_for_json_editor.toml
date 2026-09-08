@@ -298,10 +298,6 @@ url = "https://static.fduhole.com/stickers/dx_touch_fish.webp"
 id = "dx_cate"
 sha256 = "d08a15a7b8554d801661cdb45e44ef6f10f0ba20622957e96361dce484355df8"
 url = "https://static.fduhole.com/stickers/dx_cate.webp"
-[[banners]]
-title = "推兵棋也能拿“国奖”？"
-action = "https://mp.weixin.qq.com/s/B9xqU2ClorKWn79cCMAEXA?scene=1&click_id=1944079817"
-button = "来战！"
 
 [[banners]]
 title = "复旦红会，只等你来！"
