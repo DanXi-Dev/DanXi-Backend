@@ -53,6 +53,11 @@ action = "https://mp.weixin.qq.com/s/WUp9qjAEq0W7Fc-UBEkpqQ"
 button = "立即加入"
 
 [[banners]]
+title = "在茶里遇见有趣的人"
+action = "https://mp.weixin.qq.com/s/vNEIuO27G7doCFG3NwLlsw"
+button = "认识茶社"
+
+[[banners]]
 title = "MOECTF 2026 新生赛"
 action = "#686527"	
 button = "立即参赛"
