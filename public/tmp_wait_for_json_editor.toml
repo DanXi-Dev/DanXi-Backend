@@ -304,7 +304,3 @@ id = "dx_cate"
 sha256 = "d08a15a7b8554d801661cdb45e44ef6f10f0ba20622957e96361dce484355df8"
 url = "https://static.fduhole.com/stickers/dx_cate.webp"
 
-[[banners]]
-title = "复旦红会，只等你来！"
-action = "https://mp.weixin.qq.com/s/BcSA6lOnTbO2ep6hzEl8Qw"	
-button = "立即加入"
