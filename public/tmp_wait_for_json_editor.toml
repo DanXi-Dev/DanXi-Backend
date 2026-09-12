@@ -67,6 +67,11 @@ title = "在 PCS 服务队创世纪"
 action = "https://mp.weixin.qq.com/s/lJxk8pCARUVy4wOcKjssaw"
 button = "我要入队"
 
+[[banners]]
+title = "在茶里遇见有趣的人"
+action = "https://mp.weixin.qq.com/s/vNEIuO27G7doCFG3NwLlsw"
+button = "认识茶社"
+
 [semester_start_date]
 527 = "2026-09-07" # 26-27上
 504 = "2025-09-08" # 25-26上
