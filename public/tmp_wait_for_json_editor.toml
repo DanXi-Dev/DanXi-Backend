@@ -72,6 +72,11 @@ title = "初秋逢知音，民乐待你来"
 action = "https://mp.weixin.qq.com/s/TcF3UBBTpIG-bE9M7FJKOA"
 button = "加入友声"
 
+[[banners]]
+title = "欢迎报名新生演讲赛！"
+action = "https://mp.weixin.qq.com/s/6WZjF51w-4lHT_rXW4W8uQ"
+button = "点击报名"
+
 [semester_start_date]
 527 = "2026-09-07" # 26-27上
 504 = "2025-09-08" # 25-26上
