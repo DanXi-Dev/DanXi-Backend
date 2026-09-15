@@ -58,11 +58,6 @@ action = "#686527"
 button = "立即参赛"
 
 [[banners]]
-title = "新生杯羽毛球赛报名中"
-action = "https://mp.weixin.qq.com/s/dR9nIUH7ENqrjPvSVJVwaw"
-button = "立即加入"
-
-[[banners]]
 title = "在 PCS 服务队创世纪"
 action = "https://mp.weixin.qq.com/s/lJxk8pCARUVy4wOcKjssaw"
 button = "我要入队"
