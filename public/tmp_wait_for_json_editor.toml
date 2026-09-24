@@ -55,6 +55,11 @@ title = "中秋节2000人都在玩…"
 action = "https://mp.weixin.qq.com/s/rGIeLh9UusGtIOr2xJPZXw"
 button = "啥活动？"
 
+[[banners]]
+title = "阿杰噜线上支教招募"
+action = "https://mp.weixin.qq.com/s/3yfRlm7hKk8cRTcusiOSAQ"
+button = "点击报名"
+
 [semester_start_date]
 527 = "2026-09-07" # 26-27上
 504 = "2025-09-08" # 25-26上
