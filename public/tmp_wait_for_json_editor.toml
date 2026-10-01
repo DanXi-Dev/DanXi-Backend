@@ -46,19 +46,9 @@ action = "https://mp.weixin.qq.com/s/WUp9qjAEq0W7Fc-UBEkpqQ"
 button = "立即加入"
 
 [[banners]]
-title = "欢迎报名新生演讲赛！"
-action = "https://mp.weixin.qq.com/s/6WZjF51w-4lHT_rXW4W8uQ"
-button = "点击报名"
-
-[[banners]]
 title = "阿杰噜线上支教招募"
 action = "https://mp.weixin.qq.com/s/3yfRlm7hKk8cRTcusiOSAQ"
 button = "点击报名"
-
-[[banners]]
-title = "周五放学去哪里"
-action = "https://mp.weixin.qq.com/s/P4nosEK-OqA2RkYqRCdz8A"
-button = "上山集合"
 
 [semester_start_date]
 527 = "2026-09-07" # 26-27上
