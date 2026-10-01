@@ -55,6 +55,11 @@ title = "病理科普公众号招新！"
 action = "https://mp.weixin.qq.com/s/EdhPIX_AFm3JUCAa-LxMLg"
 button = "速速加入"
 
+[[banners]]
+title = "周五放学去哪里"
+action = "https://mp.weixin.qq.com/s/P4nosEK-OqA2RkYqRCdz8A"
+button = "上山集合"
+
 [semester_start_date]
 527 = "2026-09-07" # 26-27上
 504 = "2025-09-08" # 25-26上
