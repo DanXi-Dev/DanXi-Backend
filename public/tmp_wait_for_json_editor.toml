@@ -40,21 +40,6 @@ title = "茶楼横幅位申请指南"
 action = "https://danxi-dev.feishu.cn/wiki/NfSfwq5I2izsbbkTcNdcnbgXnrf"	
 button = "立即加入"
 
-[[banners]]
-title = "南东苑园委会招新啦！"
-action = "https://mp.weixin.qq.com/s/WUp9qjAEq0W7Fc-UBEkpqQ"
-button = "立即加入"
-
-[[banners]]
-title = "阿杰噜线上支教招募"
-action = "https://mp.weixin.qq.com/s/3yfRlm7hKk8cRTcusiOSAQ"
-button = "点击报名"
-
-[[banners]]
-title = "病理科普公众号招新！"
-action = "https://mp.weixin.qq.com/s/EdhPIX_AFm3JUCAa-LxMLg"
-button = "速速加入"
-
 [semester_start_date]
 527 = "2026-09-07" # 26-27上
 504 = "2025-09-08" # 25-26上
