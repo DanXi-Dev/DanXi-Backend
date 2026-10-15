@@ -40,6 +40,11 @@ title = "茶楼横幅位申请指南"
 action = "https://danxi-dev.feishu.cn/wiki/NfSfwq5I2izsbbkTcNdcnbgXnrf"	
 button = "立即加入"
 
+[[banners]]
+title = "旦口喜剧大赛等你来战！"
+action = "https://mp.weixin.qq.com/s/aBUb_CXX_AbPO-pvk91TUQ"	
+button = "我要参加"
+
 [semester_start_date]
 527 = "2026-09-07" # 26-27上
 504 = "2025-09-08" # 25-26上
