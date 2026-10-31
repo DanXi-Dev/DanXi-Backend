@@ -45,6 +45,11 @@ title = "造干入库，只等你来！"
 action = "https://mp.weixin.qq.com/s/NWsn6JRQfZ6JyhyRFO-WIw"	
 button = "立即加入"
 
+[[banners]]
+title = "程序设计校赛即将开赛！"
+action = "#755467"
+button = "程设校赛"
+
 [semester_start_date]
 527 = "2026-09-07" # 26-27上
 504 = "2025-09-08" # 25-26上
