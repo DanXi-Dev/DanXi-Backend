@@ -50,6 +50,11 @@ title = "程序设计校赛即将开赛！"
 action = "#755467"
 button = "程设校赛"
 
+[[banners]]
+title = "欢迎报名欣赏新生演讲赛大决赛！"
+action = "https://mp.weixin.qq.com/s/dHci9xVyvnPu47hqT5oqcw"
+button = "点击报名"
+
 [semester_start_date]
 527 = "2026-09-07" # 26-27上
 504 = "2025-09-08" # 25-26上
