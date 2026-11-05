@@ -50,6 +50,16 @@ title = "欢迎报名欣赏新生演讲赛大决赛！"
 action = "https://mp.weixin.qq.com/s/dHci9xVyvnPu47hqT5oqcw"
 button = "点击报名"
 
+[[banners]]
+title = "欢迎报名新声诵诗会！"
+action = "https://mp.weixin.qq.com/s/IrDcc46bfKxiLhFSPiUBGQ"
+button = "点击报名"
+
+[[banners]]
+title = "欢迎来新生辩论赛交朋友！"
+action = "https://mp.weixin.qq.com/s/vq6Puq14sjn8FKGWCR1k8w"
+button = "欢迎来辩"
+
 [semester_start_date]
 527 = "2026-09-07" # 26-27上
 504 = "2025-09-08" # 25-26上
