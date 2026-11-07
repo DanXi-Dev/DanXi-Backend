@@ -41,11 +41,6 @@ action = "https://danxi-dev.feishu.cn/wiki/NfSfwq5I2izsbbkTcNdcnbgXnrf"
 button = "立即加入"
 
 [[banners]]
-title = "程序设计校赛即将开赛！"
-action = "#755467"
-button = "程设校赛"
-
-[[banners]]
 title = "欢迎报名欣赏新生演讲赛大决赛！"
 action = "https://mp.weixin.qq.com/s/dHci9xVyvnPu47hqT5oqcw"
 button = "点击报名"
