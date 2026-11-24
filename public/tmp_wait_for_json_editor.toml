@@ -41,9 +41,9 @@ action = "https://danxi-dev.feishu.cn/wiki/NfSfwq5I2izsbbkTcNdcnbgXnrf"
 button = "立即加入"
 
 [[banners]]
-title = "倚星歌起相辉，伴粤声满光华"
-action = "https://mp.weixin.qq.com/s/AFNcX2B2oDjSesP5cAXl5A"	
-button = "星粤同话"
+title = "冬令营招募|四川兴文"
+action = "https://mp.weixin.qq.com/s/Wl2hK2PnH0ieM-seqfuWnw"	
+button = "点点兴光"
 
 [semester_start_date]
 527 = "2026-09-07" # 26-27上
